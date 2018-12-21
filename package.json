@@ -9,6 +9,7 @@
     "apollo-client": "^2.4.7",
     "apollo-link-context": "^1.0.10",
     "apollo-link-http": "^1.5.7",
+    "env-development": "^1.0.2",
     "gh-pages": "^2.0.1",
     "graphql": "^14.0.2",
     "react": "^16.7.0-alpha.2",
